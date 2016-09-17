@@ -1,8 +1,8 @@
 #FizzBuzz
-This does is the FIzzBuzz problem.  Just a bit longer.
+This does is the FizzBuzz problem.  Just a bit longer.
 
 #Why did I make this?
-Alright.  So, if you are a programmer and have gone to interviews, you know that you will
+All right.  So, if you are a programmer and have gone to interviews, you know that you will
 have to do some kind of coding question.  
 
 One of those questions is FizzBuzz.  It is a pretty simple exercise.  If you don't know what it is, here is the
