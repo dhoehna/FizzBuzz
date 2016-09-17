@@ -1,4 +1,10 @@
- #pragma once
+/*
+WHAT IS THIS?
+Template meta programming so I could have some compile time recursion.
+
+That's about it. Nothing fancy.
+*/
+#pragma once
 #include <iostream>
 #include "Word.h"
 template <int N>
